@@ -1,0 +1,68 @@
+[
+  {
+    "text": "that is everything",
+    "expected_complete": true,
+    "p_complete": 0.308,
+    "reason": "explicit completion"
+  },
+  {
+    "text": "please hold on",
+    "expected_complete": true,
+    "p_complete": 0.015,
+    "reason": "valid stand-alone turn despite ongoing call"
+  },
+  {
+    "text": "I can give you the details tomorrow",
+    "expected_complete": true,
+    "p_complete": 0.549,
+    "reason": "complete statement"
+  },
+  {
+    "text": "I received the confirmation",
+    "expected_complete": true,
+    "p_complete": 0.183,
+    "reason": "complete statement"
+  },
+  {
+    "text": "I would like a refund",
+    "expected_complete": true,
+    "p_complete": 0.473,
+    "reason": "complete intention"
+  },
+  {
+    "text": "sorry could you repeat that",
+    "expected_complete": true,
+    "p_complete": 0.029,
+    "reason": "complete clarification request"
+  },
+  {
+    "text": "all set thanks",
+    "expected_complete": true,
+    "p_complete": 0.533,
+    "reason": "short closing"
+  },
+  {
+    "text": "I can help with that",
+    "expected_complete": true,
+    "p_complete": 0.079,
+    "reason": "complete answer"
+  },
+  {
+    "text": "we can get started",
+    "expected_complete": true,
+    "p_complete": 0.236,
+    "reason": "complete utterance"
+  },
+  {
+    "text": "is that okay with you",
+    "expected_complete": true,
+    "p_complete": 0.375,
+    "reason": "complete question"
+  },
+  {
+    "text": "yeah that's right",
+    "expected_complete": true,
+    "p_complete": 0.608,
+    "reason": "complete acknowledgement"
+  }
+]

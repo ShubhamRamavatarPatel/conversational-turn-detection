@@ -1,0 +1,55 @@
+{
+  "note": "Synthetic/hand-authored English transcripts; NOT actual production ASR evaluation.",
+  "n_train": 446,
+  "n_validation": 92,
+  "n_test": 94,
+  "threshold_tuned_on_validation": 0.63,
+  "validation": {
+    "n": 92,
+    "accuracy": 0.913,
+    "precision_complete": 0.9118,
+    "recall_complete": 0.8611,
+    "f1_complete": 0.8857,
+    "false_early_rate": 0.0536,
+    "missed_completion_rate": 0.1389,
+    "confusion": {
+      "tn": 53,
+      "fp": 3,
+      "fn": 5,
+      "tp": 31
+    },
+    "roc_auc": 0.9593
+  },
+  "heldout_test": {
+    "n": 94,
+    "accuracy": 0.9149,
+    "precision_complete": 0.8649,
+    "recall_complete": 0.9143,
+    "f1_complete": 0.8889,
+    "false_early_rate": 0.0847,
+    "missed_completion_rate": 0.0857,
+    "confusion": {
+      "tn": 54,
+      "fp": 5,
+      "fn": 3,
+      "tp": 32
+    },
+    "roc_auc": 0.9574
+  },
+  "hand_authored_unseen_challenge": {
+    "n": 36,
+    "accuracy": 0.6944,
+    "precision_complete": 1.0,
+    "recall_complete": 0.3889,
+    "f1_complete": 0.56,
+    "false_early_rate": 0.0,
+    "missed_completion_rate": 0.6111,
+    "confusion": {
+      "tn": 18,
+      "fp": 0,
+      "fn": 11,
+      "tp": 7
+    },
+    "roc_auc": 0.8302
+  }
+}

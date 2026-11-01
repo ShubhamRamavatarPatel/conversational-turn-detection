@@ -1,0 +1,21 @@
+{
+  "machine": "Linux-6.18.55-x86_64-with-glibc2.41",
+  "python": "3.13.5",
+  "in_process_single_sequential": {
+    "requests": 350,
+    "p50_ms": 0.87,
+    "p95_ms": 1.209,
+    "p99_ms": 1.875,
+    "mean_ms": 0.935,
+    "throughput_rps": 1069.37
+  },
+  "http_sequential": {
+    "requests": 350,
+    "p50_ms": 2.179,
+    "p95_ms": 3.193,
+    "p99_ms": 4.058,
+    "mean_ms": 2.323,
+    "throughput_rps": 430.56,
+    "wallclock_rps": 430.39
+  }
+}

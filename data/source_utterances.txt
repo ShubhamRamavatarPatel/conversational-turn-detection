@@ -1,0 +1,234 @@
+# Hand-authored English customer-service / logistics utterances. One COMPLETED speaker turn per line.
+Can you check whether my delivery is arriving this afternoon
+I need to change the drop off address for tomorrow's shipment
+Please send me the tracking link when it becomes available
+The driver was supposed to arrive before noon today
+Could you move the pickup to Tuesday around nine in the morning
+My package was marked delivered but I cannot find it
+I would like to speak with someone about a missing order
+The loading dock will be closed between twelve and one
+Please ask the driver to call five minutes before arriving
+I am calling to confirm that the truck has left the warehouse
+The gate code is four five seven two
+We can receive the pallets any time after eight tomorrow
+Could you tell me which carrier is handling my order
+I need the proof of delivery for invoice number thirty two
+Please update the contact phone number on the account
+The shipment needs to stay refrigerated during transport
+I am trying to arrange a pickup from our north facility
+The order contains twelve cases of replacement components
+I want to know why the freight charges were higher
+The delivery instructions say to enter through the rear gate
+I have a question about the customs paperwork for this shipment
+Can we hold this package at the local distribution center
+I will be available to sign for the delivery on Friday
+Please cancel the duplicate shipment and keep the original
+Our receiving team has finished unloading the last trailer
+The consignee is asking for a revised arrival estimate
+I would prefer standard shipping rather than the express option
+We need a smaller vehicle because the street is narrow
+I found the tracking number in the confirmation email
+Please leave the parcel with the front desk attendant
+How long will it take to process a refund
+Can you explain the cancellation fee on my statement
+I already submitted the payment through the customer portal
+The invoice should include our tax identification number
+I think the discount was missing from my last order
+Could you email me a copy of the receipt
+I need to dispute a charge from last Thursday
+The amount on the invoice does not match our agreement
+Please charge the card that ends in four eight two one
+I would like to set up automatic billing for next month
+I want to change the billing address but not the delivery address
+We have received the credit note for the previous invoice
+My payment failed even though the account has sufficient funds
+Can you confirm when the refund should appear on my card
+Please split the invoice between our two business units
+I sent the purchase order this morning by email
+There is an extra handling charge that I do not recognize
+I need the payment terms before I can approve the order
+The customer has asked us to issue a corrected invoice
+I am waiting for the updated quote from your sales team
+Could we schedule a call for Monday afternoon
+I have another meeting at two so three would work better
+Can you move our appointment to the same time next week
+Please invite the warehouse manager to the planning meeting
+I would like to book a consultation for this Thursday
+We can start the training session as soon as everyone joins
+The video link in the calendar invitation is not working
+I have a conflict with the morning appointment
+Let's keep the meeting short because I have a flight
+Can we confirm the date before sending the invitation
+The interview is scheduled for ten thirty eastern time
+I will send the draft agenda before the end of today
+We should probably reschedule if the engineer is unavailable
+I need twenty minutes to review the contract with legal
+Could you set a reminder for our monthly maintenance review
+The earliest slot on my calendar is Wednesday at eleven
+I can join by phone if the internet connection is unreliable
+Please include the updated location in the calendar event
+We agreed to meet after the quarterly reporting deadline
+The appointment should last no more than forty five minutes
+My account is locked after several unsuccessful login attempts
+I cannot reset the password using the link you sent
+The app closes whenever I try to upload the document
+Could you help me reconnect the device to the network
+I have already restarted the computer twice today
+The dashboard is showing yesterday's numbers instead of today's
+I receive an error when I try to submit the form
+The microphone is working but no one can hear my voice
+I would like to report a problem with the mobile application
+The confirmation message did not appear after I clicked save
+Please let me know which software version is supported
+Can you walk me through the installation steps one more time
+The system started working after I cleared the browser cache
+Our team is still seeing occasional timeouts on the API
+I need access to the project folder before the meeting
+Could you check whether the server is back online
+The download finishes but the file cannot be opened
+I will attach a screenshot of the error message to my reply
+The new update made the application noticeably slower
+Everything looks correct now so you can close the support ticket
+I want to place an order for another twenty units
+Do you have the smaller size available in blue
+I ordered the wrong model and would like to exchange it
+Could you verify the quantity before finalizing the order
+The replacement parts need to arrive before the weekend
+I prefer the newer version with the additional safety feature
+Please add two more boxes to the existing order
+I am waiting for approval from the purchasing department
+The supplier confirmed that the material is in stock
+We need a quotation for the next three months
+Can you send the product specifications in a PDF document
+The samples arrived and our quality team approved them
+I would like to know whether the warranty covers this damage
+Please make sure the order is packaged separately
+The last shipment had the incorrect part number on the label
+We will place the larger order after testing the prototypes
+I am interested in the annual subscription rather than monthly
+Could you explain what is included in the premium plan
+The item arrived damaged so I need a replacement
+That is all I wanted to ask about the purchase today
+Thank you for explaining the return policy
+Okay that works for me
+Yes please go ahead with the change
+No I do not need anything else right now
+Sure that sounds good
+Thanks I appreciate your help
+All right we can proceed
+Actually I changed my mind
+Yes I can hear you clearly
+No that is not the address
+One moment please
+I am ready now
+Sounds perfect thank you
+That makes sense to me
+I agree with the proposed schedule
+Fine let's do it
+Great I will be there
+Exactly that is what I meant
+I think we are done
+Please continue
+Go ahead
+Thank you goodbye
+I am not sure which reference number you are asking for
+Let me explain what happened during the last delivery
+I was speaking with another agent about this issue earlier
+To clarify I only want to change the return date
+The main problem is that the system charges us twice
+What I mean is that the invoice has the wrong currency
+In my opinion we should wait until the tests are complete
+I understand the policy but I would like an exception
+If the package is delayed please notify me immediately
+When the next train arrives I will be able to collect it
+Although the first attempt failed the second one succeeded
+Because the driver was running late we changed the appointment
+Before closing the ticket please confirm the fix with me
+After speaking to the manager I decided to accept the offer
+If there are no more questions we can end the call
+When you have the information please send it to my inbox
+I would like the order delivered to the office instead of home
+The first part is ready and the second part is still being prepared
+We can process the return once the courier picks it up
+The first shipment arrived yesterday and the second is due Monday
+Could you please repeat the last two digits of the tracking number
+Sorry I did not catch the name of the person who called
+I have the information in front of me now
+That is not quite what I was trying to say
+Let me check the details and then I will get back to you
+It looks like the wrong account was selected earlier
+I have reviewed the options and the second one is better
+We need to update the route because the highway is closed
+I am calling from our branch office in the city center
+Please wait while I verify the serial number on the label
+There may be some background noise because I am driving
+I have received your message and will respond later today
+Could you transfer me to the person handling returns
+I think the best option is to pause the order until Friday
+The address is correct except for the apartment number
+I would like to confirm the details before making a decision
+There is a delay at the port due to the weather
+Our customer asked for a morning delivery window
+We should confirm the stock level before accepting the order
+I can provide the shipping reference if that helps
+The vendor has already sent the revised product description
+Our operations team will be working during the holiday
+Please call back after lunch if the system is still unavailable
+I need a few more details about the service level agreement
+The team has finished testing the new routing algorithm
+We will monitor the error rate after today's software release
+The new warehouse is located near the airport terminal
+The invoice has been approved and is ready for processing
+You can use my email address for any follow up questions
+I'd like to confirm that the subscription renews automatically
+The service was excellent and I have no further questions
+Yep
+Absolutely
+No problem
+Got it
+Not yet
+Not really
+Sure thing
+That's correct
+That's fine
+Not today
+Will do
+Already done
+Never mind
+Good morning
+Good afternoon
+Good evening
+Hello there
+All done
+No worries
+Right exactly
+Okay perfect
+Yes absolutely
+No not at all
+I understand
+Sounds great
+Works for us
+See you then
+Talk soon
+Maybe later
+One second
+I have it
+I'm listening
+That's right
+Correct
+Understood
+Definitely
+Of course
+No thank you
+No idea
+I don't know
+I think so
+Probably not
+Yes we did
+No we haven't
+All good
+Thanks again
+Goodbye for now
+That is correct
+That will work
+This looks good

@@ -1,0 +1,36 @@
+{"text":"yes", "label":1,"reason":"short acknowledgement may complete a turn"}
+{"text":"no thanks", "label":1,"reason":"short refusal may complete a turn"}
+{"text":"okay", "label":1,"reason":"short confirmation"}
+{"text":"could you", "label":0,"reason":"incomplete request"}
+{"text":"the reason is", "label":0,"reason":"incomplete explanation"}
+{"text":"but I", "label":0,"reason":"conjunction continuation"}
+{"text":"once you get the", "label":0,"reason":"incomplete condition"}
+{"text":"can you send me the", "label":0,"reason":"incomplete noun phrase"}
+{"text":"thank you so much", "label":1,"reason":"complete thanks"}
+{"text":"that is everything", "label":1,"reason":"explicit completion"}
+{"text":"I need some help with", "label":0,"reason":"trailing preposition"}
+{"text":"the number is", "label":0,"reason":"partial identifying detail"}
+{"text":"please hold on", "label":1,"reason":"valid stand-alone turn despite ongoing call"}
+{"text":"I can give you the details tomorrow", "label":1,"reason":"complete statement"}
+{"text":"when I receive the confirmation", "label":0,"reason":"dependent clause only"}
+{"text":"I received the confirmation", "label":1,"reason":"complete statement"}
+{"text":"I would like to", "label":0,"reason":"incomplete intention"}
+{"text":"I would like a refund", "label":1,"reason":"complete intention"}
+{"text":"we need to talk about the", "label":0,"reason":"missing object"}
+{"text":"we need to talk about the invoice", "label":1,"reason":"complete request"}
+{"text":"and um the shipping address", "label":0,"reason":"speaker continuation likely"}
+{"text":"sorry could you repeat that", "label":1,"reason":"complete clarification request"}
+{"text":"the address is five eight one", "label":1,"reason":"grammatically possible end but unclear in practice"}
+{"text":"I think the address is", "label":0,"reason":"incomplete location"}
+{"text":"all set thanks", "label":1,"reason":"short closing"}
+{"text":"well let me", "label":0,"reason":"partial hesitation"}
+{"text":"I can help with that", "label":1,"reason":"complete answer"}
+{"text":"I can help with", "label":0,"reason":"missing object"}
+{"text":"before we get started", "label":0,"reason":"subordinate clause likely"}
+{"text":"we can get started", "label":1,"reason":"complete utterance"}
+{"text":"it should arrive on", "label":0,"reason":"missing date"}
+{"text":"it should arrive on Monday", "label":1,"reason":"complete delivery statement"}
+{"text":"if that's okay with you", "label":0,"reason":"context dependent subordinate clause"}
+{"text":"is that okay with you", "label":1,"reason":"complete question"}
+{"text":"yeah that's right", "label":1,"reason":"complete acknowledgement"}
+{"text":"and another thing", "label":0,"reason":"continuation cue"}

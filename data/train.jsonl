@@ -1,0 +1,446 @@
+{"text": "because the driver was running late we changed the appointment", "label": 1, "group": "full_143", "source": "human_seed"}
+{"text": "because the driver was", "label": 0, "group": "full_143", "source": "generated_prefix"}
+{"text": "because the driver was running late we", "label": 0, "group": "full_143", "source": "generated_prefix"}
+{"text": "can we hold this package at the local distribution center", "label": 1, "group": "full_21", "source": "human_seed"}
+{"text": "can we hold this", "label": 0, "group": "full_21", "source": "generated_prefix"}
+{"text": "can we hold this package at the", "label": 0, "group": "full_21", "source": "generated_prefix"}
+{"text": "the first thing is", "label": 0, "group": "partial_65", "source": "human_seed"}
+{"text": "i need access to the project folder before the meeting", "label": 1, "group": "full_84", "source": "human_seed"}
+{"text": "i need access to", "label": 0, "group": "full_84", "source": "generated_prefix"}
+{"text": "i need access to the project folder", "label": 0, "group": "full_84", "source": "generated_prefix"}
+{"text": "that is correct", "label": 1, "group": "full_230", "source": "human_seed"}
+{"text": "i need the proof of delivery for invoice number thirty two", "label": 1, "group": "full_13", "source": "human_seed"}
+{"text": "i need the proof", "label": 0, "group": "full_13", "source": "generated_prefix"}
+{"text": "i need the proof of delivery for", "label": 0, "group": "full_13", "source": "generated_prefix"}
+{"text": "talk soon", "label": 1, "group": "full_210", "source": "human_seed"}
+{"text": "i need a few more details about the service level agreement", "label": 1, "group": "full_175", "source": "human_seed"}
+{"text": "i need a few", "label": 0, "group": "full_175", "source": "generated_prefix"}
+{"text": "i need a few more details about", "label": 0, "group": "full_175", "source": "generated_prefix"}
+{"text": "the loading dock will be closed between twelve and one", "label": 1, "group": "full_7", "source": "human_seed"}
+{"text": "the loading dock will", "label": 0, "group": "full_7", "source": "generated_prefix"}
+{"text": "the loading dock will be closed between", "label": 0, "group": "full_7", "source": "generated_prefix"}
+{"text": "do you have the smaller size available in blue", "label": 1, "group": "full_91", "source": "human_seed"}
+{"text": "do you have", "label": 0, "group": "full_91", "source": "generated_prefix"}
+{"text": "do you have the smaller size", "label": 0, "group": "full_91", "source": "generated_prefix"}
+{"text": "the tracking page says that the", "label": 0, "group": "partial_10", "source": "human_seed"}
+{"text": "absolutely", "label": 1, "group": "full_184", "source": "human_seed"}
+{"text": "and i was", "label": 0, "group": "partial_56", "source": "human_seed"}
+{"text": "the interview is scheduled for ten thirty eastern time", "label": 1, "group": "full_60", "source": "human_seed"}
+{"text": "the interview is", "label": 0, "group": "full_60", "source": "generated_prefix"}
+{"text": "the interview is scheduled for ten", "label": 0, "group": "full_60", "source": "generated_prefix"}
+{"text": "the invoice has been approved and is ready for processing", "label": 1, "group": "full_179", "source": "human_seed"}
+{"text": "the invoice has been", "label": 0, "group": "full_179", "source": "generated_prefix"}
+{"text": "the invoice has been approved and is", "label": 0, "group": "full_179", "source": "generated_prefix"}
+{"text": "we will monitor the error rate after today's software release", "label": 1, "group": "full_177", "source": "human_seed"}
+{"text": "we will monitor the", "label": 0, "group": "full_177", "source": "generated_prefix"}
+{"text": "we will monitor the error rate after", "label": 0, "group": "full_177", "source": "generated_prefix"}
+{"text": "when the driver gets here", "label": 0, "group": "partial_5", "source": "human_seed"}
+{"text": "the microphone is working but no one can hear my voice", "label": 1, "group": "full_77", "source": "human_seed"}
+{"text": "the microphone is working", "label": 0, "group": "full_77", "source": "generated_prefix"}
+{"text": "the microphone is working but no one", "label": 0, "group": "full_77", "source": "generated_prefix"}
+{"text": "all good", "label": 1, "group": "full_227", "source": "human_seed"}
+{"text": "i am calling to confirm that the truck has left the warehouse", "label": 1, "group": "full_9", "source": "human_seed"}
+{"text": "i am calling to", "label": 0, "group": "full_9", "source": "generated_prefix"}
+{"text": "i am calling to confirm that the truck", "label": 0, "group": "full_9", "source": "generated_prefix"}
+{"text": "the driver was supposed to arrive before noon today", "label": 1, "group": "full_3", "source": "human_seed"}
+{"text": "the driver was", "label": 0, "group": "full_3", "source": "generated_prefix"}
+{"text": "the driver was supposed to arrive", "label": 0, "group": "full_3", "source": "generated_prefix"}
+{"text": "can you explain the cancellation fee on my statement", "label": 1, "group": "full_31", "source": "human_seed"}
+{"text": "can you explain", "label": 0, "group": "full_31", "source": "generated_prefix"}
+{"text": "can you explain the cancellation fee", "label": 0, "group": "full_31", "source": "generated_prefix"}
+{"text": "there is a delay at the port due to the weather", "label": 1, "group": "full_168", "source": "human_seed"}
+{"text": "there is a delay", "label": 0, "group": "full_168", "source": "generated_prefix"}
+{"text": "there is a delay at the port", "label": 0, "group": "full_168", "source": "generated_prefix"}
+{"text": "you can use my email address for any follow up questions", "label": 1, "group": "full_180", "source": "human_seed"}
+{"text": "you can use my", "label": 0, "group": "full_180", "source": "generated_prefix"}
+{"text": "you can use my email address for", "label": 0, "group": "full_180", "source": "generated_prefix"}
+{"text": "i found the tracking number in the confirmation email", "label": 1, "group": "full_28", "source": "human_seed"}
+{"text": "i found the", "label": 0, "group": "full_28", "source": "generated_prefix"}
+{"text": "i found the tracking number in", "label": 0, "group": "full_28", "source": "generated_prefix"}
+{"text": "for the address please use", "label": 0, "group": "partial_49", "source": "human_seed"}
+{"text": "we will place the larger order after testing the prototypes", "label": 1, "group": "full_105", "source": "human_seed"}
+{"text": "we will place the", "label": 0, "group": "full_105", "source": "generated_prefix"}
+{"text": "we will place the larger order after", "label": 0, "group": "full_105", "source": "generated_prefix"}
+{"text": "will do", "label": 1, "group": "full_193", "source": "human_seed"}
+{"text": "i can pay by credit card or", "label": 0, "group": "partial_31", "source": "human_seed"}
+{"text": "if there are no more questions we can end the call", "label": 1, "group": "full_146", "source": "human_seed"}
+{"text": "if there are no", "label": 0, "group": "full_146", "source": "generated_prefix"}
+{"text": "if there are no more questions we", "label": 0, "group": "full_146", "source": "generated_prefix"}
+{"text": "no worries", "label": 1, "group": "full_201", "source": "human_seed"}
+{"text": "after speaking to the manager i decided to accept the offer", "label": 1, "group": "full_145", "source": "human_seed"}
+{"text": "after speaking to the", "label": 0, "group": "full_145", "source": "generated_prefix"}
+{"text": "after speaking to the manager i decided", "label": 0, "group": "full_145", "source": "generated_prefix"}
+{"text": "the order contains twelve cases of replacement components", "label": 1, "group": "full_17", "source": "human_seed"}
+{"text": "the order contains", "label": 0, "group": "full_17", "source": "generated_prefix"}
+{"text": "the order contains twelve cases", "label": 0, "group": "full_17", "source": "generated_prefix"}
+{"text": "the item arrived damaged so i need a replacement", "label": 1, "group": "full_108", "source": "human_seed"}
+{"text": "the item arrived", "label": 0, "group": "full_108", "source": "generated_prefix"}
+{"text": "the item arrived damaged so i", "label": 0, "group": "full_108", "source": "generated_prefix"}
+{"text": "that's fine", "label": 1, "group": "full_191", "source": "human_seed"}
+{"text": "i have received your message and will respond later today", "label": 1, "group": "full_163", "source": "human_seed"}
+{"text": "i have received your", "label": 0, "group": "full_163", "source": "generated_prefix"}
+{"text": "i have received your message and will", "label": 0, "group": "full_163", "source": "generated_prefix"}
+{"text": "the earliest slot on my calendar is wednesday at eleven", "label": 1, "group": "full_65", "source": "human_seed"}
+{"text": "the earliest slot on", "label": 0, "group": "full_65", "source": "generated_prefix"}
+{"text": "the earliest slot on my calendar is", "label": 0, "group": "full_65", "source": "generated_prefix"}
+{"text": "i am trying to arrange a pickup from our north facility", "label": 1, "group": "full_16", "source": "human_seed"}
+{"text": "i am trying to", "label": 0, "group": "full_16", "source": "generated_prefix"}
+{"text": "i am trying to arrange a pickup", "label": 0, "group": "full_16", "source": "generated_prefix"}
+{"text": "that is not quite what i was trying to say", "label": 1, "group": "full_155", "source": "human_seed"}
+{"text": "that is not quite", "label": 0, "group": "full_155", "source": "generated_prefix"}
+{"text": "that is not quite what i was", "label": 0, "group": "full_155", "source": "generated_prefix"}
+{"text": "could you tell me whether", "label": 0, "group": "partial_0", "source": "human_seed"}
+{"text": "sure that sounds good", "label": 1, "group": "full_114", "source": "human_seed"}
+{"text": "yes i can hear you clearly", "label": 1, "group": "full_118", "source": "human_seed"}
+{"text": "thanks again", "label": 1, "group": "full_228", "source": "human_seed"}
+{"text": "exactly that is what i meant", "label": 1, "group": "full_127", "source": "human_seed"}
+{"text": "can you help with", "label": 0, "group": "partial_63", "source": "human_seed"}
+{"text": "yes please go ahead with the change", "label": 1, "group": "full_112", "source": "human_seed"}
+{"text": "yes please go", "label": 0, "group": "full_112", "source": "generated_prefix"}
+{"text": "yes please go ahead", "label": 0, "group": "full_112", "source": "generated_prefix"}
+{"text": "okay that works for me", "label": 1, "group": "full_111", "source": "human_seed"}
+{"text": "no that is not the address", "label": 1, "group": "full_119", "source": "human_seed"}
+{"text": "i'd like to confirm that the subscription renews automatically", "label": 1, "group": "full_181", "source": "human_seed"}
+{"text": "i'd like to", "label": 0, "group": "full_181", "source": "generated_prefix"}
+{"text": "i'd like to confirm that the", "label": 0, "group": "full_181", "source": "generated_prefix"}
+{"text": "i can join by phone if the internet connection is unreliable", "label": 1, "group": "full_66", "source": "human_seed"}
+{"text": "i can join by", "label": 0, "group": "full_66", "source": "generated_prefix"}
+{"text": "i can join by phone if the", "label": 0, "group": "full_66", "source": "generated_prefix"}
+{"text": "i would like", "label": 0, "group": "partial_57", "source": "human_seed"}
+{"text": "how long will it take to process a refund", "label": 1, "group": "full_30", "source": "human_seed"}
+{"text": "how long will", "label": 0, "group": "full_30", "source": "generated_prefix"}
+{"text": "how long will it take to", "label": 0, "group": "full_30", "source": "generated_prefix"}
+{"text": "our receiving team has finished unloading the last trailer", "label": 1, "group": "full_24", "source": "human_seed"}
+{"text": "our receiving team", "label": 0, "group": "full_24", "source": "generated_prefix"}
+{"text": "our receiving team has finished unloading", "label": 0, "group": "full_24", "source": "generated_prefix"}
+{"text": "there is an extra handling charge that i do not recognize", "label": 1, "group": "full_46", "source": "human_seed"}
+{"text": "there is an extra", "label": 0, "group": "full_46", "source": "generated_prefix"}
+{"text": "there is an extra handling charge that", "label": 0, "group": "full_46", "source": "generated_prefix"}
+{"text": "good afternoon", "label": 1, "group": "full_197", "source": "human_seed"}
+{"text": "let's keep the meeting short because i have a flight", "label": 1, "group": "full_58", "source": "human_seed"}
+{"text": "let's keep the meeting", "label": 0, "group": "full_58", "source": "generated_prefix"}
+{"text": "let's keep the meeting short because i", "label": 0, "group": "full_58", "source": "generated_prefix"}
+{"text": "my main concern with this is", "label": 0, "group": "partial_12", "source": "human_seed"}
+{"text": "i want to place an order for another twenty units", "label": 1, "group": "full_90", "source": "human_seed"}
+{"text": "i want to place", "label": 0, "group": "full_90", "source": "generated_prefix"}
+{"text": "i want to place an order for", "label": 0, "group": "full_90", "source": "generated_prefix"}
+{"text": "see you then", "label": 1, "group": "full_209", "source": "human_seed"}
+{"text": "i agree with the proposed schedule", "label": 1, "group": "full_124", "source": "human_seed"}
+{"text": "our team can handle the request as long as", "label": 0, "group": "partial_25", "source": "human_seed"}
+{"text": "before closing the ticket please confirm the fix with me", "label": 1, "group": "full_144", "source": "human_seed"}
+{"text": "before closing the ticket", "label": 0, "group": "full_144", "source": "generated_prefix"}
+{"text": "before closing the ticket please confirm the", "label": 0, "group": "full_144", "source": "generated_prefix"}
+{"text": "no idea", "label": 1, "group": "full_221", "source": "human_seed"}
+{"text": "yes we did", "label": 1, "group": "full_225", "source": "human_seed"}
+{"text": "of course", "label": 1, "group": "full_219", "source": "human_seed"}
+{"text": "i sent the purchase order this morning by email", "label": 1, "group": "full_45", "source": "human_seed"}
+{"text": "i sent the", "label": 0, "group": "full_45", "source": "generated_prefix"}
+{"text": "i sent the purchase order this", "label": 0, "group": "full_45", "source": "generated_prefix"}
+{"text": "all right we can proceed", "label": 1, "group": "full_116", "source": "human_seed"}
+{"text": "it looks like the wrong account was selected earlier", "label": 1, "group": "full_157", "source": "human_seed"}
+{"text": "it looks like", "label": 0, "group": "full_157", "source": "generated_prefix"}
+{"text": "it looks like the wrong account", "label": 0, "group": "full_157", "source": "generated_prefix"}
+{"text": "you mentioned earlier that", "label": 0, "group": "partial_47", "source": "human_seed"}
+{"text": "i would like to book a consultation for this thursday", "label": 1, "group": "full_54", "source": "human_seed"}
+{"text": "i would like to", "label": 0, "group": "full_54", "source": "generated_prefix"}
+{"text": "i would like to book a consultation", "label": 0, "group": "full_54", "source": "generated_prefix"}
+{"text": "i have already restarted the computer twice today", "label": 1, "group": "full_74", "source": "human_seed"}
+{"text": "i have already", "label": 0, "group": "full_74", "source": "generated_prefix"}
+{"text": "i have already restarted the", "label": 0, "group": "full_74", "source": "generated_prefix"}
+{"text": "i am calling from our branch office in the city center", "label": 1, "group": "full_160", "source": "human_seed"}
+{"text": "i am calling from", "label": 0, "group": "full_160", "source": "generated_prefix"}
+{"text": "i am calling from our branch office", "label": 0, "group": "full_160", "source": "generated_prefix"}
+{"text": "when you have the information please send it to my inbox", "label": 1, "group": "full_147", "source": "human_seed"}
+{"text": "when you have the", "label": 0, "group": "full_147", "source": "generated_prefix"}
+{"text": "when you have the information please send", "label": 0, "group": "full_147", "source": "generated_prefix"}
+{"text": "right exactly", "label": 1, "group": "full_202", "source": "human_seed"}
+{"text": "i called last week because", "label": 0, "group": "partial_34", "source": "human_seed"}
+{"text": "i have a question about the customs paperwork for this shipment", "label": 1, "group": "full_20", "source": "human_seed"}
+{"text": "i have a question", "label": 0, "group": "full_20", "source": "generated_prefix"}
+{"text": "i have a question about the customs", "label": 0, "group": "full_20", "source": "generated_prefix"}
+{"text": "no we haven't", "label": 1, "group": "full_226", "source": "human_seed"}
+{"text": "the samples arrived and our quality team approved them", "label": 1, "group": "full_101", "source": "human_seed"}
+{"text": "the samples arrived", "label": 0, "group": "full_101", "source": "generated_prefix"}
+{"text": "the samples arrived and our quality", "label": 0, "group": "full_101", "source": "generated_prefix"}
+{"text": "can you confirm when the refund should appear on my card", "label": 1, "group": "full_43", "source": "human_seed"}
+{"text": "can you confirm when", "label": 0, "group": "full_43", "source": "generated_prefix"}
+{"text": "can you confirm when the refund should", "label": 0, "group": "full_43", "source": "generated_prefix"}
+{"text": "i am interested in the annual subscription rather than monthly", "label": 1, "group": "full_106", "source": "human_seed"}
+{"text": "i am interested in", "label": 0, "group": "full_106", "source": "generated_prefix"}
+{"text": "i am interested in the annual subscription", "label": 0, "group": "full_106", "source": "generated_prefix"}
+{"text": "the system started working after i cleared the browser cache", "label": 1, "group": "full_82", "source": "human_seed"}
+{"text": "the system started working", "label": 0, "group": "full_82", "source": "generated_prefix"}
+{"text": "the system started working after i cleared", "label": 0, "group": "full_82", "source": "generated_prefix"}
+{"text": "please leave the parcel with the front desk attendant", "label": 1, "group": "full_29", "source": "human_seed"}
+{"text": "please leave the", "label": 0, "group": "full_29", "source": "generated_prefix"}
+{"text": "please leave the parcel with the", "label": 0, "group": "full_29", "source": "generated_prefix"}
+{"text": "to make sure i understand the issue", "label": 0, "group": "partial_39", "source": "human_seed"}
+{"text": "thanks i appreciate your help", "label": 1, "group": "full_115", "source": "human_seed"}
+{"text": "no thank you", "label": 1, "group": "full_220", "source": "human_seed"}
+{"text": "the package was delivered but", "label": 0, "group": "partial_22", "source": "human_seed"}
+{"text": "before i give you the number", "label": 0, "group": "partial_9", "source": "human_seed"}
+{"text": "the other thing i wanted to ask is", "label": 0, "group": "partial_46", "source": "human_seed"}
+{"text": "i want to place an order but", "label": 0, "group": "partial_44", "source": "human_seed"}
+{"text": "i would like to report a problem with the mobile application", "label": 1, "group": "full_78", "source": "human_seed"}
+{"text": "i would like to", "label": 0, "group": "full_78", "source": "generated_prefix"}
+{"text": "i would like to report a problem", "label": 0, "group": "full_78", "source": "generated_prefix"}
+{"text": "please continue", "label": 1, "group": "full_129", "source": "human_seed"}
+{"text": "could you help me reconnect the device to the network", "label": 1, "group": "full_73", "source": "human_seed"}
+{"text": "could you help me", "label": 0, "group": "full_73", "source": "generated_prefix"}
+{"text": "could you help me reconnect the device", "label": 0, "group": "full_73", "source": "generated_prefix"}
+{"text": "not today", "label": 1, "group": "full_192", "source": "human_seed"}
+{"text": "i am ready now", "label": 1, "group": "full_121", "source": "human_seed"}
+{"text": "we agreed to meet after the quarterly reporting deadline", "label": 1, "group": "full_68", "source": "human_seed"}
+{"text": "we agreed to", "label": 0, "group": "full_68", "source": "generated_prefix"}
+{"text": "we agreed to meet after the", "label": 0, "group": "full_68", "source": "generated_prefix"}
+{"text": "not really", "label": 1, "group": "full_188", "source": "human_seed"}
+{"text": "what i mean is that the invoice has the wrong currency", "label": 1, "group": "full_137", "source": "human_seed"}
+{"text": "what i mean is", "label": 0, "group": "full_137", "source": "generated_prefix"}
+{"text": "what i mean is that the invoice", "label": 0, "group": "full_137", "source": "generated_prefix"}
+{"text": "please add two more boxes to the existing order", "label": 1, "group": "full_96", "source": "human_seed"}
+{"text": "please add two", "label": 0, "group": "full_96", "source": "generated_prefix"}
+{"text": "please add two more boxes to", "label": 0, "group": "full_96", "source": "generated_prefix"}
+{"text": "could you possibly", "label": 0, "group": "partial_58", "source": "human_seed"}
+{"text": "got it", "label": 1, "group": "full_186", "source": "human_seed"}
+{"text": "the appointment should last no more than forty five minutes", "label": 1, "group": "full_69", "source": "human_seed"}
+{"text": "the appointment should last", "label": 0, "group": "full_69", "source": "generated_prefix"}
+{"text": "the appointment should last no more than", "label": 0, "group": "full_69", "source": "generated_prefix"}
+{"text": "i was told by the previous agent that", "label": 0, "group": "partial_30", "source": "human_seed"}
+{"text": "if the package is delayed please notify me immediately", "label": 1, "group": "full_140", "source": "human_seed"}
+{"text": "if the package", "label": 0, "group": "full_140", "source": "generated_prefix"}
+{"text": "if the package is delayed please", "label": 0, "group": "full_140", "source": "generated_prefix"}
+{"text": "what i was trying to say is", "label": 0, "group": "partial_8", "source": "human_seed"}
+{"text": "my package was marked delivered but i cannot find it", "label": 1, "group": "full_5", "source": "human_seed"}
+{"text": "my package was marked", "label": 0, "group": "full_5", "source": "generated_prefix"}
+{"text": "my package was marked delivered but i", "label": 0, "group": "full_5", "source": "generated_prefix"}
+{"text": "please charge the card that ends in four eight two one", "label": 1, "group": "full_38", "source": "human_seed"}
+{"text": "please charge the card", "label": 0, "group": "full_38", "source": "generated_prefix"}
+{"text": "please charge the card that ends in", "label": 0, "group": "full_38", "source": "generated_prefix"}
+{"text": "let me see if i can find", "label": 0, "group": "partial_15", "source": "human_seed"}
+{"text": "can we confirm the date before sending the invitation", "label": 1, "group": "full_59", "source": "human_seed"}
+{"text": "can we confirm", "label": 0, "group": "full_59", "source": "generated_prefix"}
+{"text": "can we confirm the date before", "label": 0, "group": "full_59", "source": "generated_prefix"}
+{"text": "works for us", "label": 1, "group": "full_208", "source": "human_seed"}
+{"text": "could you email me a copy of the receipt", "label": 1, "group": "full_35", "source": "human_seed"}
+{"text": "could you email", "label": 0, "group": "full_35", "source": "generated_prefix"}
+{"text": "could you email me a copy", "label": 0, "group": "full_35", "source": "generated_prefix"}
+{"text": "could you please repeat the last two digits of the tracking number", "label": 1, "group": "full_152", "source": "human_seed"}
+{"text": "could you please repeat", "label": 0, "group": "full_152", "source": "generated_prefix"}
+{"text": "could you please repeat the last two digits", "label": 0, "group": "full_152", "source": "generated_prefix"}
+{"text": "the invoice should include our tax identification number", "label": 1, "group": "full_33", "source": "human_seed"}
+{"text": "the invoice should", "label": 0, "group": "full_33", "source": "generated_prefix"}
+{"text": "the invoice should include our", "label": 0, "group": "full_33", "source": "generated_prefix"}
+{"text": "the service was excellent and i have no further questions", "label": 1, "group": "full_182", "source": "human_seed"}
+{"text": "the service was excellent", "label": 0, "group": "full_182", "source": "generated_prefix"}
+{"text": "the service was excellent and i have", "label": 0, "group": "full_182", "source": "generated_prefix"}
+{"text": "but we", "label": 0, "group": "partial_55", "source": "human_seed"}
+{"text": "i think the best option is to pause the order until friday", "label": 1, "group": "full_165", "source": "human_seed"}
+{"text": "i think the best", "label": 0, "group": "full_165", "source": "generated_prefix"}
+{"text": "i think the best option is to pause", "label": 0, "group": "full_165", "source": "generated_prefix"}
+{"text": "probably not", "label": 1, "group": "full_224", "source": "human_seed"}
+{"text": "fine let's do it", "label": 1, "group": "full_125", "source": "human_seed"}
+{"text": "i need twenty minutes to review the contract with legal", "label": 1, "group": "full_63", "source": "human_seed"}
+{"text": "i need twenty minutes", "label": 0, "group": "full_63", "source": "generated_prefix"}
+{"text": "i need twenty minutes to review the", "label": 0, "group": "full_63", "source": "generated_prefix"}
+{"text": "the amount on the invoice does not match our agreement", "label": 1, "group": "full_37", "source": "human_seed"}
+{"text": "the amount on the", "label": 0, "group": "full_37", "source": "generated_prefix"}
+{"text": "the amount on the invoice does not", "label": 0, "group": "full_37", "source": "generated_prefix"}
+{"text": "let me explain what happened during the last delivery", "label": 1, "group": "full_133", "source": "human_seed"}
+{"text": "let me explain", "label": 0, "group": "full_133", "source": "generated_prefix"}
+{"text": "let me explain what happened during", "label": 0, "group": "full_133", "source": "generated_prefix"}
+{"text": "could you verify the quantity before finalizing the order", "label": 1, "group": "full_93", "source": "human_seed"}
+{"text": "could you verify", "label": 0, "group": "full_93", "source": "generated_prefix"}
+{"text": "could you verify the quantity before", "label": 0, "group": "full_93", "source": "generated_prefix"}
+{"text": "we need a quotation for the next three months", "label": 1, "group": "full_99", "source": "human_seed"}
+{"text": "we need a", "label": 0, "group": "full_99", "source": "generated_prefix"}
+{"text": "we need a quotation for the", "label": 0, "group": "full_99", "source": "generated_prefix"}
+{"text": "the consignee is asking for a revised arrival estimate", "label": 1, "group": "full_25", "source": "human_seed"}
+{"text": "the consignee is", "label": 0, "group": "full_25", "source": "generated_prefix"}
+{"text": "the consignee is asking for a", "label": 0, "group": "full_25", "source": "generated_prefix"}
+{"text": "okay perfect", "label": 1, "group": "full_203", "source": "human_seed"}
+{"text": "and the", "label": 0, "group": "partial_53", "source": "human_seed"}
+{"text": "i would like the order delivered to the office instead of home", "label": 1, "group": "full_148", "source": "human_seed"}
+{"text": "i would like the", "label": 0, "group": "full_148", "source": "generated_prefix"}
+{"text": "i would like the order delivered to the", "label": 0, "group": "full_148", "source": "generated_prefix"}
+{"text": "i have a question about the", "label": 0, "group": "partial_6", "source": "human_seed"}
+{"text": "maybe later", "label": 1, "group": "full_211", "source": "human_seed"}
+{"text": "one moment please", "label": 1, "group": "full_120", "source": "human_seed"}
+{"text": "the shipment needs to stay refrigerated during transport", "label": 1, "group": "full_15", "source": "human_seed"}
+{"text": "the shipment needs", "label": 0, "group": "full_15", "source": "generated_prefix"}
+{"text": "the shipment needs to stay", "label": 0, "group": "full_15", "source": "generated_prefix"}
+{"text": "the confirmation message did not appear after i clicked save", "label": 1, "group": "full_79", "source": "human_seed"}
+{"text": "the confirmation message did", "label": 0, "group": "full_79", "source": "generated_prefix"}
+{"text": "the confirmation message did not appear after", "label": 0, "group": "full_79", "source": "generated_prefix"}
+{"text": "we can start the training session as soon as everyone joins", "label": 1, "group": "full_55", "source": "human_seed"}
+{"text": "we can start the", "label": 0, "group": "full_55", "source": "generated_prefix"}
+{"text": "we can start the training session as", "label": 0, "group": "full_55", "source": "generated_prefix"}
+{"text": "i receive an error when i try to submit the form", "label": 1, "group": "full_76", "source": "human_seed"}
+{"text": "i receive an error", "label": 0, "group": "full_76", "source": "generated_prefix"}
+{"text": "i receive an error when i try", "label": 0, "group": "full_76", "source": "generated_prefix"}
+{"text": "i ordered the wrong model and would like to exchange it", "label": 1, "group": "full_92", "source": "human_seed"}
+{"text": "i ordered the wrong", "label": 0, "group": "full_92", "source": "generated_prefix"}
+{"text": "i ordered the wrong model and would", "label": 0, "group": "full_92", "source": "generated_prefix"}
+{"text": "could you tell me which carrier is handling my order", "label": 1, "group": "full_12", "source": "human_seed"}
+{"text": "could you tell me", "label": 0, "group": "full_12", "source": "generated_prefix"}
+{"text": "could you tell me which carrier is", "label": 0, "group": "full_12", "source": "generated_prefix"}
+{"text": "that's correct", "label": 1, "group": "full_190", "source": "human_seed"}
+{"text": "no i do not need anything else right now", "label": 1, "group": "full_113", "source": "human_seed"}
+{"text": "no i do", "label": 0, "group": "full_113", "source": "generated_prefix"}
+{"text": "no i do not need anything", "label": 0, "group": "full_113", "source": "generated_prefix"}
+{"text": "i don't know", "label": 1, "group": "full_222", "source": "human_seed"}
+{"text": "no problem", "label": 1, "group": "full_185", "source": "human_seed"}
+{"text": "great i will be there", "label": 1, "group": "full_126", "source": "human_seed"}
+{"text": "i am waiting for the updated quote from your sales team", "label": 1, "group": "full_49", "source": "human_seed"}
+{"text": "i am waiting for", "label": 0, "group": "full_49", "source": "generated_prefix"}
+{"text": "i am waiting for the updated quote", "label": 0, "group": "full_49", "source": "generated_prefix"}
+{"text": "could you check whether the server is back online", "label": 1, "group": "full_85", "source": "human_seed"}
+{"text": "could you check", "label": 0, "group": "full_85", "source": "generated_prefix"}
+{"text": "could you check whether the server", "label": 0, "group": "full_85", "source": "generated_prefix"}
+{"text": "my payment failed even though the account has sufficient funds", "label": 1, "group": "full_42", "source": "human_seed"}
+{"text": "my payment failed even", "label": 0, "group": "full_42", "source": "generated_prefix"}
+{"text": "my payment failed even though the account", "label": 0, "group": "full_42", "source": "generated_prefix"}
+{"text": "the updated software still does not", "label": 0, "group": "partial_42", "source": "human_seed"}
+{"text": "our team would like", "label": 0, "group": "partial_70", "source": "human_seed"}
+{"text": "yep", "label": 1, "group": "full_183", "source": "human_seed"}
+{"text": "the app closes whenever i try to upload the document", "label": 1, "group": "full_72", "source": "human_seed"}
+{"text": "the app closes whenever", "label": 0, "group": "full_72", "source": "generated_prefix"}
+{"text": "the app closes whenever i try to", "label": 0, "group": "full_72", "source": "generated_prefix"}
+{"text": "i understand the policy but i would like an exception", "label": 1, "group": "full_139", "source": "human_seed"}
+{"text": "i understand the policy", "label": 0, "group": "full_139", "source": "generated_prefix"}
+{"text": "i understand the policy but i would", "label": 0, "group": "full_139", "source": "generated_prefix"}
+{"text": "if you can", "label": 0, "group": "partial_61", "source": "human_seed"}
+{"text": "the company changed its policy so", "label": 0, "group": "partial_26", "source": "human_seed"}
+{"text": "i have a conflict with the morning appointment", "label": 1, "group": "full_57", "source": "human_seed"}
+{"text": "i have a", "label": 0, "group": "full_57", "source": "generated_prefix"}
+{"text": "i have a conflict with", "label": 0, "group": "full_57", "source": "generated_prefix"}
+{"text": "because the", "label": 0, "group": "partial_54", "source": "human_seed"}
+{"text": "the total amount should be around", "label": 0, "group": "partial_38", "source": "human_seed"}
+{"text": "we tried to contact the carrier but", "label": 0, "group": "partial_36", "source": "human_seed"}
+{"text": "the gate code is four five seven two", "label": 1, "group": "full_10", "source": "human_seed"}
+{"text": "the gate code", "label": 0, "group": "full_10", "source": "generated_prefix"}
+{"text": "the gate code is four", "label": 0, "group": "full_10", "source": "generated_prefix"}
+{"text": "i am not sure which reference number you are asking for", "label": 1, "group": "full_132", "source": "human_seed"}
+{"text": "i am not sure", "label": 0, "group": "full_132", "source": "generated_prefix"}
+{"text": "i am not sure which reference number", "label": 0, "group": "full_132", "source": "generated_prefix"}
+{"text": "our operations team will be working during the holiday", "label": 1, "group": "full_173", "source": "human_seed"}
+{"text": "our operations team", "label": 0, "group": "full_173", "source": "generated_prefix"}
+{"text": "our operations team will be working", "label": 0, "group": "full_173", "source": "generated_prefix"}
+{"text": "the delivery instructions say to enter through the rear gate", "label": 1, "group": "full_19", "source": "human_seed"}
+{"text": "the delivery instructions say", "label": 0, "group": "full_19", "source": "generated_prefix"}
+{"text": "the delivery instructions say to enter through", "label": 0, "group": "full_19", "source": "generated_prefix"}
+{"text": "i want to know why the freight charges were higher", "label": 1, "group": "full_18", "source": "human_seed"}
+{"text": "i want to know", "label": 0, "group": "full_18", "source": "generated_prefix"}
+{"text": "i want to know why the freight", "label": 0, "group": "full_18", "source": "generated_prefix"}
+{"text": "the last shipment had the incorrect part number on the label", "label": 1, "group": "full_104", "source": "human_seed"}
+{"text": "the last shipment had", "label": 0, "group": "full_104", "source": "generated_prefix"}
+{"text": "the last shipment had the incorrect part", "label": 0, "group": "full_104", "source": "generated_prefix"}
+{"text": "we should confirm the stock level before accepting the order", "label": 1, "group": "full_170", "source": "human_seed"}
+{"text": "we should confirm the", "label": 0, "group": "full_170", "source": "generated_prefix"}
+{"text": "we should confirm the stock level before", "label": 0, "group": "full_170", "source": "generated_prefix"}
+{"text": "the dashboard is showing yesterday's numbers instead of today's", "label": 1, "group": "full_75", "source": "human_seed"}
+{"text": "the dashboard is", "label": 0, "group": "full_75", "source": "generated_prefix"}
+{"text": "the dashboard is showing yesterday's numbers", "label": 0, "group": "full_75", "source": "generated_prefix"}
+{"text": "first i want to check whether", "label": 0, "group": "partial_40", "source": "human_seed"}
+{"text": "i will be available to sign for the delivery on friday", "label": 1, "group": "full_22", "source": "human_seed"}
+{"text": "i will be available", "label": 0, "group": "full_22", "source": "generated_prefix"}
+{"text": "i will be available to sign for", "label": 0, "group": "full_22", "source": "generated_prefix"}
+{"text": "could you transfer me to the person handling returns", "label": 1, "group": "full_164", "source": "human_seed"}
+{"text": "could you transfer", "label": 0, "group": "full_164", "source": "generated_prefix"}
+{"text": "could you transfer me to the", "label": 0, "group": "full_164", "source": "generated_prefix"}
+{"text": "the customer has asked us to issue a corrected invoice", "label": 1, "group": "full_48", "source": "human_seed"}
+{"text": "the customer has asked", "label": 0, "group": "full_48", "source": "generated_prefix"}
+{"text": "the customer has asked us to issue", "label": 0, "group": "full_48", "source": "generated_prefix"}
+{"text": "i need to change the drop off address for tomorrow's shipment", "label": 1, "group": "full_1", "source": "human_seed"}
+{"text": "i need to change", "label": 0, "group": "full_1", "source": "generated_prefix"}
+{"text": "i need to change the drop off", "label": 0, "group": "full_1", "source": "generated_prefix"}
+{"text": "i have reviewed the options and the second one is better", "label": 1, "group": "full_158", "source": "human_seed"}
+{"text": "i have reviewed the", "label": 0, "group": "full_158", "source": "generated_prefix"}
+{"text": "i have reviewed the options and the", "label": 0, "group": "full_158", "source": "generated_prefix"}
+{"text": "i have the information in front of me now", "label": 1, "group": "full_154", "source": "human_seed"}
+{"text": "i have the", "label": 0, "group": "full_154", "source": "generated_prefix"}
+{"text": "i have the information in front", "label": 0, "group": "full_154", "source": "generated_prefix"}
+{"text": "if it is possible to", "label": 0, "group": "partial_7", "source": "human_seed"}
+{"text": "the delivery was late even though", "label": 0, "group": "partial_35", "source": "human_seed"}
+{"text": "we need to update the route because the highway is closed", "label": 1, "group": "full_159", "source": "human_seed"}
+{"text": "we need to update", "label": 0, "group": "full_159", "source": "generated_prefix"}
+{"text": "we need to update the route because", "label": 0, "group": "full_159", "source": "generated_prefix"}
+{"text": "the first part is ready and the second part is still being prepared", "label": 1, "group": "full_149", "source": "human_seed"}
+{"text": "the first part is ready", "label": 0, "group": "full_149", "source": "generated_prefix"}
+{"text": "the first part is ready and the second part", "label": 0, "group": "full_149", "source": "generated_prefix"}
+{"text": "please invite the warehouse manager to the planning meeting", "label": 1, "group": "full_53", "source": "human_seed"}
+{"text": "please invite the", "label": 0, "group": "full_53", "source": "generated_prefix"}
+{"text": "please invite the warehouse manager to", "label": 0, "group": "full_53", "source": "generated_prefix"}
+{"text": "the download finishes but the file cannot be opened", "label": 1, "group": "full_86", "source": "human_seed"}
+{"text": "the download finishes", "label": 0, "group": "full_86", "source": "generated_prefix"}
+{"text": "the download finishes but the file", "label": 0, "group": "full_86", "source": "generated_prefix"}
+{"text": "the video link in the calendar invitation is not working", "label": 1, "group": "full_56", "source": "human_seed"}
+{"text": "the video link in", "label": 0, "group": "full_56", "source": "generated_prefix"}
+{"text": "the video link in the calendar invitation", "label": 0, "group": "full_56", "source": "generated_prefix"}
+{"text": "could we schedule a call for monday afternoon", "label": 1, "group": "full_50", "source": "human_seed"}
+{"text": "could we schedule", "label": 0, "group": "full_50", "source": "generated_prefix"}
+{"text": "could we schedule a call", "label": 0, "group": "full_50", "source": "generated_prefix"}
+{"text": "never mind", "label": 1, "group": "full_195", "source": "human_seed"}
+{"text": "please send me the tracking link when it becomes available", "label": 1, "group": "full_2", "source": "human_seed"}
+{"text": "please send me the", "label": 0, "group": "full_2", "source": "generated_prefix"}
+{"text": "please send me the tracking link when", "label": 0, "group": "full_2", "source": "generated_prefix"}
+{"text": "the replacement parts need to arrive before the weekend", "label": 1, "group": "full_94", "source": "human_seed"}
+{"text": "the replacement parts", "label": 0, "group": "full_94", "source": "generated_prefix"}
+{"text": "the replacement parts need to arrive", "label": 0, "group": "full_94", "source": "generated_prefix"}
+{"text": "the part number i need starts with", "label": 0, "group": "partial_28", "source": "human_seed"}
+{"text": "can you send the order to", "label": 0, "group": "partial_3", "source": "human_seed"}
+{"text": "i think so", "label": 1, "group": "full_223", "source": "human_seed"}
+{"text": "the team has finished testing the new routing algorithm", "label": 1, "group": "full_176", "source": "human_seed"}
+{"text": "the team has", "label": 0, "group": "full_176", "source": "generated_prefix"}
+{"text": "the team has finished testing the", "label": 0, "group": "full_176", "source": "generated_prefix"}
+{"text": "as soon as the payment goes through", "label": 0, "group": "partial_18", "source": "human_seed"}
+{"text": "that is all i wanted to ask about the purchase today", "label": 1, "group": "full_109", "source": "human_seed"}
+{"text": "that is all i", "label": 0, "group": "full_109", "source": "generated_prefix"}
+{"text": "that is all i wanted to ask", "label": 0, "group": "full_109", "source": "generated_prefix"}
+{"text": "i'm calling because", "label": 0, "group": "partial_69", "source": "human_seed"}
+{"text": "although the first attempt failed the second one succeeded", "label": 1, "group": "full_142", "source": "human_seed"}
+{"text": "although the first", "label": 0, "group": "full_142", "source": "generated_prefix"}
+{"text": "although the first attempt failed the", "label": 0, "group": "full_142", "source": "generated_prefix"}
+{"text": "the vendor has already sent the revised product description", "label": 1, "group": "full_172", "source": "human_seed"}
+{"text": "the vendor has", "label": 0, "group": "full_172", "source": "generated_prefix"}
+{"text": "the vendor has already sent the", "label": 0, "group": "full_172", "source": "generated_prefix"}
+{"text": "i was hoping", "label": 0, "group": "partial_59", "source": "human_seed"}
+{"text": "i don't think that approach will work because", "label": 0, "group": "partial_41", "source": "human_seed"}
+{"text": "could you explain what is included in the premium plan", "label": 1, "group": "full_107", "source": "human_seed"}
+{"text": "could you explain what", "label": 0, "group": "full_107", "source": "generated_prefix"}
+{"text": "could you explain what is included in", "label": 0, "group": "full_107", "source": "generated_prefix"}
+{"text": "i don't know whether i should", "label": 0, "group": "partial_13", "source": "human_seed"}
+{"text": "i need you to check the", "label": 0, "group": "partial_4", "source": "human_seed"}
+{"text": "please include the updated location in the calendar event", "label": 1, "group": "full_67", "source": "human_seed"}
+{"text": "please include the", "label": 0, "group": "full_67", "source": "generated_prefix"}
+{"text": "please include the updated location in", "label": 0, "group": "full_67", "source": "generated_prefix"}
+{"text": "can you confirm the shipment date and", "label": 0, "group": "partial_27", "source": "human_seed"}
+{"text": "the first shipment arrived yesterday and the second is due monday", "label": 1, "group": "full_151", "source": "human_seed"}
+{"text": "the first shipment arrived", "label": 0, "group": "full_151", "source": "generated_prefix"}
+{"text": "the first shipment arrived yesterday and the", "label": 0, "group": "full_151", "source": "generated_prefix"}
+{"text": "our team is still seeing occasional timeouts on the api", "label": 1, "group": "full_83", "source": "human_seed"}
+{"text": "our team is still", "label": 0, "group": "full_83", "source": "generated_prefix"}
+{"text": "our team is still seeing occasional timeouts", "label": 0, "group": "full_83", "source": "generated_prefix"}
+{"text": "i understand", "label": 1, "group": "full_206", "source": "human_seed"}
+{"text": "our customer asked for a morning delivery window", "label": 1, "group": "full_169", "source": "human_seed"}
+{"text": "our customer asked", "label": 0, "group": "full_169", "source": "generated_prefix"}
+{"text": "our customer asked for a", "label": 0, "group": "full_169", "source": "generated_prefix"}
+{"text": "so i think the best thing to do would be", "label": 0, "group": "partial_45", "source": "human_seed"}
+{"text": "i am waiting for approval from the purchasing department", "label": 1, "group": "full_97", "source": "human_seed"}
+{"text": "i am waiting", "label": 0, "group": "full_97", "source": "generated_prefix"}
+{"text": "i am waiting for approval from", "label": 0, "group": "full_97", "source": "generated_prefix"}
+{"text": "the problem started when i", "label": 0, "group": "partial_19", "source": "human_seed"}
+{"text": "i am waiting to hear back from", "label": 0, "group": "partial_16", "source": "human_seed"}
+{"text": "already done", "label": 1, "group": "full_194", "source": "human_seed"}
+{"text": "and when you finish that", "label": 0, "group": "partial_50", "source": "human_seed"}
+{"text": "we need to review the contract before", "label": 0, "group": "partial_33", "source": "human_seed"}
+{"text": "actually i changed my mind", "label": 1, "group": "full_117", "source": "human_seed"}
+{"text": "i would like to confirm the details before making a decision", "label": 1, "group": "full_167", "source": "human_seed"}
+{"text": "i would like to", "label": 0, "group": "full_167", "source": "generated_prefix"}
+{"text": "i would like to confirm the details", "label": 0, "group": "full_167", "source": "generated_prefix"}
+{"text": "i would like to speak with someone about a missing order", "label": 1, "group": "full_6", "source": "human_seed"}
+{"text": "i would like to", "label": 0, "group": "full_6", "source": "generated_prefix"}
+{"text": "i would like to speak with someone", "label": 0, "group": "full_6", "source": "generated_prefix"}
+{"text": "after i spoke with the manager", "label": 0, "group": "partial_17", "source": "human_seed"}
+{"text": "the new warehouse is located near the airport terminal", "label": 1, "group": "full_178", "source": "human_seed"}
+{"text": "the new warehouse", "label": 0, "group": "full_178", "source": "generated_prefix"}
+{"text": "the new warehouse is located near", "label": 0, "group": "full_178", "source": "generated_prefix"}
